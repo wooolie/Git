@@ -1,1 +1,1 @@
-# Git
+This is GIT.
